@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sqk:home|Door43 (sqk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sqk|d43-sqk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sqk/archive/master.zip|d43-sqk.zip]]
+
+**Recent Changes**
+{{changes>ns = sqk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sqk|Ethnologue data]]
+
